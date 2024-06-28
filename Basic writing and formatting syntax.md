@@ -14,5 +14,5 @@ To create a heading, add one to six <kbd>#</kbd> symbols before your heading tex
 ## A second-level heading
 ### A third-level heading
 
-When you use two ir more headings in GitHub automatically generates a table of contects that you can access by clicking 
-
+When you use two ir more headings in GitHub automatically generates a table of contects that you can access by clicking <img src="icon.jpg"> within the file header. Each heading title is listed in the table of contents and you can click a tilte to navigate to selection section. 
+<img src="headings-toc.png">
